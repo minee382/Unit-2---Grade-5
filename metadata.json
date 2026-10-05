@@ -1,0 +1,6 @@
+{
+  "name": "Disney Magic English 5 - Unit 2: Our Homes",
+  "description": "Ứng dụng học từ vựng và mẫu câu Tiếng Anh Lớp 5 Unit 2 (Our Homes / My Hometown) phong cách Disney với Flashcards, phát âm chuẩn, Game Nối từ, Trắc nghiệm, Chính tả và Luyện nghe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
